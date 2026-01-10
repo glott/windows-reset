@@ -1,0 +1,15 @@
+{
+    "backup-dir": "H:\\windows-backup",
+    "applications":
+    {
+        "discord":
+        [
+            "%appdata%\\discord"
+        ],
+        "CRC":
+        [
+            "%localappdata%\\CRC",
+            "%appdata%\\com.towercab.viewer"
+        ]
+    }
+}
