@@ -1,0 +1,66 @@
+--- PRIORITY 1: SYSTEM & UTILITIES ---
+Firefox                         https://www.mozilla.org/en-US/firefox/new/
+7-Zip                           https://www.7-zip.org/
+Auto Dark Mode                  https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases
+Discord                         https://discord.com/download
+Dropbox                         https://www.dropbox.com/install
+f.lux                           https://justgetflux.com/
+Intel XTU                       https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html
+Logitech Options+               https://www.logitech.com/en-us/software/logi-options-plus.html
+Logitech SetPoint               https://support.logi.com/hc/en-us/articles/360025141274
+MSI Afterburner                 https://www.msi.com/Landing/afterburner/graphics-cards
+NVIDIA App                      https://www.nvidia.com/en-us/software/nvidia-app/
+PowerToys                       https://github.com/microsoft/PowerToys/releases
+TeamSpeak 3                     https://www.teamspeak.com/en/downloads/
+uTorrent                        https://www.utorrent.com/downloads/win
+
+--- PRIORITY 1: FLIGHT SIM & VATSIM ---
+ATCTrainer                      https://vnas.vatsim.net/atctrainer
+CH Control Manager              https://www.chproducts.com/13-29170-Downloads-and-Community.php.html
+CRC (vNAS)                      https://vnas.vatsim.net/crc
+Elevatex                        https://elevatex.app/
+EuroScope                       https://www.euroscope.hu/wp/
+FE-BUDDY                        https://github.com/Nikolai558/FE-BUDDY
+FlyByWire Installer             https://flybywiresim.com/
+FSDreamTeam (GSX)               http://www.fsdreamteam.com/products_gsx.html
+iniManager                      https://inibuilds.com/pages/inimanager
+Microsoft Flight Simulator      https://www.xbox.com/en-US/games/store/microsoft-flight-simulator-standard-40th-anniversary-edition/9MT9ZD7V4WFT
+Navigraph FMS Data Manager      https://navigraph.com/downloads
+Navigraph Hub                   https://navigraph.com/downloads
+Navigraph Simlink               https://navigraph.com/downloads
+NEAT                            https://aeronav.faa.gov/Upload_313-d/blind_data/NEAT/
+OpenTrack                       https://github.com/opentrack/opentrack/releases
+TowerCab 3D                     https://github.com/leftos/towercab-3d/
+TWRTrainer                      https://vnas.vatsim.net/
+VAT-Spy                         https://www.metacraft.com/VATSpy/
+vATIS                           https://vatis.app/
+vatsys                          https://vatsys.net/
+vPilot (VATSIM)                 https://vpilot.rosscarlson.com/
+VRC                             https://www.vatsim.net/docs/atc/software/vrc/
+xPilot (VATSIM)                 https://xpilot.org/
+X-Plane (Digital Download)      https://www.x-plane.com/kb/install-digital-download/
+
+--- PRIORITY 2: DEVELOPMENT & CREATIVE ---
+Adobe Acrobat Reader            https://get.adobe.com/reader/
+Anaconda                        https://www.anaconda.com/download
+Canon Utilities (DPP)           https://www.usa.canon.com/support/p/digital-photo-professional-4
+Chrome Remote Desktop Host      https://remotedesktop.google.com/access
+DaVinci Resolve                 https://www.blackmagicdesign.com/products/davinciresolve
+Gigabyte Control Center         https://www.gigabyte.com/consumer/software/gigabyte-control-center/
+Git for Windows                 https://git-scm.com/download/win
+Python                          https://www.python.org/downloads/windows/
+QGIS (Long Term Release)        https://qgis.org/en/site/forusers/download.html
+Sublime Text                    https://www.sublimetext.com/download
+
+--- PRIORITY 3: GAMING & MISC ---
+Cherry Tools                    https://www.cherry.de/en-us/product/g86-61400/downloads
+Epic Games Launcher             https://www.epicgames.com/store/en-US/download
+Input Director                  https://www.inputdirector.com/downloads.html
+iTunes                          https://www.apple.com/itunes/
+LittleBigMouse                  https://github.com/mgth/LittleBigMouse/releases
+Minecraft Launcher              https://www.minecraft.net/en-us/download
+QMK MSYS                        https://msys.qmk.fm/
+Rising Storm 2: Vietnam         https://store.steampowered.com/app/418460/Rising_Storm_2_Vietnam/
+Steam                           https://store.steampowered.com/about/
+Virtual Audio Cable             https://vac.muzychenko.net/en/download.htm
+WinDirStat                      https://windirstat.net/download.html
