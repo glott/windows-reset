@@ -26,18 +26,12 @@ FSDreamTeam (GSX)               http://www.fsdreamteam.com/products_gsx.html
 iniManager                      https://inibuilds.com/pages/inimanager
 Microsoft Flight Simulator      https://www.xbox.com/en-US/games/store/microsoft-flight-simulator-standard-40th-anniversary-edition/9MT9ZD7V4WFT
 Navigraph FMS Data Manager      https://navigraph.com/downloads
-<<<<<<< HEAD
 Navigraph Hub                   https://navigraph.com/downloads
 Navigraph Simlink               https://navigraph.com/downloads
 NEAT                            https://aeronav.faa.gov/Upload_313-d/blind_data/NEAT/
 OpenTrack                       https://github.com/opentrack/opentrack/releases
 TowerCab 3D                     https://github.com/leftos/towercab-3d/
 TWRTrainer                      https://vnas.vatsim.net/
-=======
-NEAT                            https://aeronav.faa.gov/Upload_313-d/blind_data/NEAT/
-OpenTrack                       https://github.com/opentrack/opentrack/releases
-TowerCab 3D                     https://github.com/leftos/towercab-3d/
->>>>>>> e28ff8ebe38598c73b75a9d33aaa4bf97abd750d
 VAT-Spy                         https://www.metacraft.com/VATSpy/
 vATIS                           https://vatis.app/
 vatsys                          https://vatsys.net/
@@ -62,11 +56,6 @@ Sublime Text                    https://www.sublimetext.com/download
 Cherry Tools                    https://www.cherry.de/en-us/product/g86-61400/downloads
 Epic Games Launcher             https://www.epicgames.com/store/en-US/download
 Input Director                  https://www.inputdirector.com/downloads.html
-<<<<<<< HEAD
-=======
-Intel Driver & Support          https://www.intel.com/content/www/us/en/support/detect.html
-Intel Graphics Software         https://apps.microsoft.com/store/detail/intel-graphics-command-center/9PLFNLNT3G5G
->>>>>>> e28ff8ebe38598c73b75a9d33aaa4bf97abd750d
 iTunes                          https://www.apple.com/itunes/
 LittleBigMouse                  https://github.com/mgth/LittleBigMouse/releases
 Minecraft Launcher              https://www.minecraft.net/en-us/download
