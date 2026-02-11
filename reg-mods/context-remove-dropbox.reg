@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+; Remove "Transfer a copy..." from Dropbox Context Menu
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{87672921-698C-4D6F-9C1D-E73BA88324F9}"="Dropbox Transfer"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{87672921-698C-4D6F-9C1D-E73BA88324F9}"="Dropbox Transfer"
+"{ECD97DE5-3C8F-4ACB-AEEE-CCAB78F7711C}"="Dropbox"
+"{FB31661E-CD61-44EE-B059-703DDE396249}"="Dropbox"
+"{9111A017-391A-437E-959D-3C7D4DE36147}"="Dropbox"
+"{2A30ECA0-BA4D-4A2D-A90D-A227970F3D8C}"="Dropbox"
+"{E31EA609-0294-47f2-A8E3-2C9794017C8A}"="Dropbox"
+"{997906A0-9A2E-47C0-B9E4-5A245131A127}"="Dropbox"

@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; Remove Git Bash and GUI from background right-click
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\git_shell]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\git_gui]
+
+; Remove Git Bash and GUI from folder right-click
+[-HKEY_CLASSES_ROOT\Directory\shell\git_shell]
+[-HKEY_CLASSES_ROOT\Directory\shell\git_gui]
+
+; Remove from individual file right-click (if applicable)
+[-HKEY_CLASSES_ROOT\*\shell\git_shell]
+[-HKEY_CLASSES_ROOT\*\shell\git_gui]
