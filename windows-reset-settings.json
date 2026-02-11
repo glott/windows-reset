@@ -14,7 +14,7 @@
         ],
         "Microsoft":
         [
-            "%localappdata%\\Microsoft\\Edge\\User Data\\Default\\WebStorage"
+            "%localappdata%\\Microsoft\\Edge\\User Data\\Default"
         ],
         "PowerToys":
         [
